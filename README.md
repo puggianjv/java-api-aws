@@ -1,2 +1,2 @@
 # java-api-aws
-Testing java api with container and AWS
+Testing java api container on AWS
